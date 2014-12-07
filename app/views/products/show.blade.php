@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/projects/georges-cafe-app/app/views/products/show.blade.php

@@ -1,0 +1,1 @@
+C:\wamp\www\pixel141102 georges cafe\georges-cafe-app\app/views/JournalTransactions/index.blade.php

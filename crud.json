@@ -1,0 +1,36 @@
+[
+	{
+		"name" : "students",	
+		"fields" : [
+			{
+				name : "id",
+				type : "text",
+				nullable : false,
+				primary : true,
+				auto_increment : true
+				validation_rules : [
+					'required', 'integer'
+				]
+			},
+			{
+				name : "first_name",
+				type: "string",
+				nullable: false,
+				validation_rules: ['min:23', "nonumeric", "valid_name"]
+			}			
+		],
+
+		"dependencies" : ["persons", "departments"],
+		"views" : ["create", "index"],
+		"bootstrap" : true
+	},
+	{
+		"name" : "invoices",
+		"fields": [
+			{
+				name: "id",
+				type: "|text"
+			}
+		]
+	}
+]

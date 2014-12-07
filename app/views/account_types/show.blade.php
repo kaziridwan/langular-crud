@@ -1,0 +1,1 @@
+/var/www/html/work/GeorgesCafe/app/views/account_types/show.blade.php

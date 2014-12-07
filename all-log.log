@@ -1,0 +1,83 @@
+commit ba219334bab9be175fb2ee1976fedc44f4fe14c8
+Author: ridwan <ridwan.arefin@gmail.com>
+Date:   Sat Nov 15 21:19:22 2014 +0600
+
+    removed untracked files
+
+commit 9ed1a27dbce4e65c14f7c3caec1a63e004ba89b9
+Author: ridwan <ridwan.arefin@gmail.com>
+Date:   Sat Nov 15 21:14:52 2014 +0600
+
+    gitignore added
+
+commit 3a5d670ca439959ce54a4aefcf27ee6501b21ada
+Author: Anik Hasan <stackoverflow789@gmail.com>
+Date:   Sat Nov 15 14:44:04 2014 +0600
+
+    worked on product and invoice
+
+commit 6cf183330e03171a32803586e8227e297768fb02
+Author: Anik Hasan <stackoverflow789@gmail.com>
+Date:   Thu Nov 13 17:25:47 2014 +0600
+
+    worked on invoice
+
+commit 8fc26cf5e29fc4919907205d5763b4ad270caecc
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Thu Nov 6 09:58:46 2014 +0600
+
+    Controllers changed
+
+commit 85f5f969774df76e4f14b09fd2843f91ae8c5d2a
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Wed Nov 5 11:34:31 2014 +0600
+
+    normal css added
+
+commit ff4ebdf404a15b3560248125dc46360a225ef039
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Wed Nov 5 11:13:20 2014 +0600
+
+    Subcatagory's bug fixed and completed
+
+commit 406dbc08344cc6304f6c1028bfb7da9620dc9112
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Mon Nov 3 22:45:24 2014 +0600
+
+    SubCatagory Added
+
+commit b9170202fc66461f2310d4e6d49b527cb5835701
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Mon Nov 3 11:34:54 2014 +0600
+
+    frontend updated and Edit delete function added
+
+commit 7d0de94a5812d7a49d1db1e2e64c65580f8f91d8
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Sun Nov 2 18:22:39 2014 +0600
+
+    Font end er kichu kaj
+
+commit b5c995ba79891b70b8a8a17b347540be19cf344c
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Sun Nov 2 14:37:19 2014 +0600
+
+    Bugs fixed
+
+commit e7ab217d8ada29ef66854956b54f7d5f7b8373de
+Author: Mujadded Al Rabbani Alif <mujadded.alif@gmail.com>
+Date:   Sun Nov 2 14:19:08 2014 +0600
+
+    First task done
+
+commit 797b37e33a6c6f6221b741aa4f35e6bbd4f97bd1
+Author: Anik Hasan <stackoverflow789@gmail.com>
+Date:   Sun Nov 2 12:33:26 2014 +0600
+
+    hello dev
+
+commit 6ae62681d70cb317d5c541b93fc7929b16dafa66
+Author: Anik Hasan <stackoverflow789@gmail.com>
+Date:   Sun Nov 2 11:27:32 2014 +0600
+
+    initialized project

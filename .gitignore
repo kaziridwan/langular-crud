@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+app/config/*/
+=======
+app/config/*/
+.idea
+.idea/*
+vendor/*
+>>>>>>> c45ea1347652c9bc1d3eaabdb16086c204edd7db
